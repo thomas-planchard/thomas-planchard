@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Moonshot Project](https://github.com/thomas-planchard/moonshotProject)
 
-- 🌱 I’m currently learning **all I can.**
-
 - 📫 How to reach me **thomas.planchard@algosup.com**
 
 <h3 align="left">Connect with me:</h3>
