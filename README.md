@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my [Moonshot Project](https://github.com/thomas-planchard/moonshotProject)
-- 🔭 My current school project is [Sportshield](https://github.com/algosup/2023-2024-project-4-sportshield-team-8)
+- 🔭 My current school project is [Adopte 1 candidat](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
 - 📫 How to reach me **thomas.planchard@algosup.com**
 
 <h3 align="left">💡 Old Projects:</h3>
