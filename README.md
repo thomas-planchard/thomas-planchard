@@ -5,11 +5,12 @@
 
 
 - 🔭 I’m currently working on my [Moonshot Project](https://github.com/thomas-planchard/moonshotProject)
-- 🔭 My current school project is [Adopte 1 candidat](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
+- 🔭 My current school project is 
 - 📫 How to reach me **thomas.planchard@icloud.com**
 
 <h3 align="left">💡 Old Projects:</h3>
 
+- [Adopte 1 candidat](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
 - [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1)
 - [Pac-Man in Assembly](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
 - [Wine Mixer Algorithm](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7)
