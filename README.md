@@ -10,6 +10,7 @@
 
 <h3 align="left">💡 Old Projects:</h3>
 
+- [FPGA](https://github.com/algosup/2024-2025-project-1-fpga-team-7)
 - [Adopte 1 candidat](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
 - [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1)
 - [Pac-Man in Assembly](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
