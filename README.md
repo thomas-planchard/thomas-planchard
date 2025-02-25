@@ -5,11 +5,12 @@
 
 
 - 🔭 I’m currently working on my [Moonshot Project](https://github.com/thomas-planchard/moonshotProject)
-- 🔭 My current school project is [Quickest Path](https://github.com/algosup/2024-2025-project-3-quickest-path-team-8)
+- 🔭 My current school project is [Web FPGA](https://github.com/algosup/2024-2025-project-4-web-fpga-team-6)
 - 📫 How to reach me **thomas.planchard@icloud.com**
 
 <h3 align="left">💡 Old Projects:</h3>
 
+- [Quickest Path](https://github.com/algosup/2024-2025-project-3-quickest-path-team-8)
 - [FPGA](https://github.com/algosup/2024-2025-project-1-fpga-team-7)
 - [Adopte 1 candidat](https://github.com/algosup/2023-2024-project-5-flutter-team-8)
 - [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1)
